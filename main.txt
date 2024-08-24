@@ -1,0 +1,9 @@
+git init
+создать файл .gitignore 
+содердимое файла .gitignore 
+'''
+*.sass
+bin/
+admin/
+config/
+'''
