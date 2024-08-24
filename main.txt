@@ -7,3 +7,13 @@ bin/
 admin/
 config/
 '''
+git add .
+git commit -m "one commit"
+git branch new_branch
+git checkout new_branch
+создаем папку и файлы
+git add .
+git commit -m "branch"
+git remote add origin https://github.com/MaxNHL/branch.git
+git push -u origin master
+
